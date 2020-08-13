@@ -2,12 +2,12 @@
 
 THESE ARE ALL AWESOME, BUT UNPOPULAR OSES.
 
-* [Elive](https://elivecd.org)
+* [Elive](https://elivecd.org/download)
 
 Uniqueness: looks nice, 300Mhz 256MB minimum, persistence, one-man project, Enlightenment
 
 32bit: wait 1 hour to download; 64bit: donation
-* [theShell OS](https://vicr123.com/theshell/os/)
+* [theShell OS](https://vicr123.com/theshell/os/) [DISCONTINUED]
 
 Uniqueness: desktop enviroment by the developer, one-man project
 
